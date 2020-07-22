@@ -14,3 +14,7 @@ My name is Victor Shinya! Currently I help companies to design and deliver a clo
 - 🤘🏻 UX/UI and Photography ennthusiast.
 - 📖 Checkout my latest blog on [Medium](https://medium.com/@victorshinya).
 - 📩 Any help? Send me an [e-mail](mailto:contato@victorshinya.com.br).
+
+## Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
