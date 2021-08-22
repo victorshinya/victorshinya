@@ -7,11 +7,13 @@
 
 ## Hi team! 👊🏻
 
-My name is Victor Shinya! I work as IBM Public Cloud Technical Specialist, Architect at [IBM](https://cloud.ibm.com) - Serverless and Container specialist for Enterprise customers in Financial, Retail and Energy industries. I trained more than 40,000 professionals, from developers to CxOs, with presentations, workshops, and mentoring in the areas of AI and Cloud. Currently, I support customers in their digital transformation and journey to the cloud.
+I'm Victor Shinya (he/him), a Mobile & Web Developer and Content Creator passionate about Container, Serverless, Programming, and Open Source. I'm also a conference speaker and technical writter.
+
+I currently work as a Enterprise Solutions Architect at [IBM Cloud](https://cloud.ibm.com) - Serverless and Container specialist for Enterprise clients in Financial, Retail and Energy industries. I have trained more than 40,000 professionals, from developers to CxOs, with presentations, workshops, and mentoring in AI and Cloud Computing. Currently, I support clients in their digital transformation and journey to the cloud.
 
 Also, I am Professor at [FIAP](https://www.fiap.com.br) in AI & Chatbot class.
 
-- ✍🏻 You will find a lot of works with Kubernetes, OpenShift, Serverless and iOS Engineering.
+- ✍🏻 You will find here a lot of works with Kubernetes, OpenShift, Serverless and iOS Engineering.
 - 📖 Always looking for a new opportunity to get certified in Cloud.
   - IBM Certified Solution Advisor - IBM Cloud Foundations V2.
   - IBM Certified Solution Architect - Cloud v4.
