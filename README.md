@@ -7,23 +7,16 @@
 
 ## Hi team! 👊🏻
 
-I'm Victor Shinya (he/him), a Mobile & Web Developer and Content Creator passionate about Container, Serverless, Programming, and Open Source. I'm also a conference speaker and technical writter.
+I'm Victor Shinya (he/him) and I work as Enterprise Solutions Architect at [Amazon Web Services (AWS)](https://aws.amazon.com/).
 
-I currently work as a Enterprise Solutions Architect at [IBM Cloud](https://cloud.ibm.com) - Serverless and Container specialist for Enterprise clients in Financial, Retail and Energy industries. I have trained more than 40,000 professionals, from developers to CxOs, with presentations, workshops, and mentoring in AI and Cloud Computing. Currently, I support clients in their digital transformation and journey to the cloud.
+Also, I work as Professor at [FIAP](https://www.fiap.com.br) in AI & Chatbot class.
 
-Also, I am Professor at [FIAP](https://www.fiap.com.br) in AI & Chatbot class.
-
-- ✍🏻 You will find here a lot of works with Kubernetes, OpenShift, Serverless and iOS Engineering.
-- 📖 Always looking for a new opportunity to get certified in Cloud.
-  - IBM Certified Solution Advisor - IBM Cloud Foundations V2.
-  - IBM Certified Solution Architect - Cloud v4.
-  - IBM Certified Professional Sales Engineer - Cloud v1.
-  - Microsoft Certified: Azure Fundamentals.
+- ✍🏻 You will find here a lot of Serverless, Container, and Automation (in general - and it includes Chatbot).
 
 ## 📥 How to reach me
 
 I love to teach what I know and I'm always learning something new.
 
-- 📓 Checkout my latest blog post on [Medium](https://blog.victorshinya.com.br) and [IBM Blog](https://www.ibm.com/blogs/digital-transformation/br-pt/author/victorshinya/).
+- 📓 Checkout my latest blog post on [Medium](https://blog.victorshinya.com.br) and [LinkedIn](https://www.linkedin.com/in/victorshinya/recent-activity/posts).
 - ⚡️ Find all my social media on my [website](https://www.victorshinya.com.br).
 - 📩 Any help? Send me an [e-mail](mailto:contato@victorshinya.com.br).
